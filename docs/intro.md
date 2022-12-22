@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Listing Response API 
+# What is an API?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+API adalah **[Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface)** sederhanya API adalah: "a set of protocols that allow application software and their services to communicate with each other."
 
 ## Getting Started
 

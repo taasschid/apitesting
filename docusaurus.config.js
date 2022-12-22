@@ -11,8 +11,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Listing Endpoints',
-  tagline: 'Listing Endpoints Aplikasi Super by QA',
+  title: 'API Testing Fundamentals',
+  tagline: 'API Testing Fundamentals By Victor Mulatua',
   url: 'https://qasuperautomation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
